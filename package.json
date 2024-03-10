@@ -1,0 +1,26 @@
+{
+"name": "documentation-updateswuguanjy98",
+"version": "1.0.0",
+"description": "We regularly update the project documentation to ensure it stays in sync with the latest version.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/mohamedmcculla/Documentation-Updates.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "mohamedmcculla",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
